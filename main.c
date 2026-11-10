@@ -1,4 +1,3 @@
-```
 #include "raylib.h"
 #include <stdbool.h>
 #include <stdlib.h>
@@ -166,7 +165,7 @@ int main(void) {
     CloseWindow();
     return 0;
 }
-```
+
 [프로젝트 설명]
 - 게임 이름: 플래피 버드 (Flappy Bird Clone)
 - 사용 기술: C언어, Raylib 라이브러리
